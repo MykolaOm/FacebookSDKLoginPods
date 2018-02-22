@@ -1,0 +1,6 @@
+framework module Pods_FBnw {
+  umbrella header "Pods-FBnw-umbrella.h"
+
+  export *
+  module * { export * }
+}
